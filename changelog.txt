@@ -1,4 +1,33 @@
-Changelog GingerDX v025 (11-04-2012):
+GingerDX v026 (17-05-2012)
+
+    - CM7.2.0-rc1, based on latest Hero CM7.2.0-release
+    - Added Battery Life tweaks by PureMotive
+    - Added "Battery Status Bar" by spitemare
+    - Added Menu button to receive call by eagleeyetom
+    - Added GPS Country Optimizer by djnilse
+    - Added GDX Update Notify by djnilse
+    - Added Nemus Launcher
+    - Added ES File Manager
+    - Updated Play Store to 3.5.19
+    - Updated GalleryDX
+    - Updated AChep's ICSandwich theme to 032-build-408
+    - Updated timezone data to 2011n as included with the compile
+    - Replaced ChainDD's Superuser with Chainfire's SuperSU 0.89
+    - Replaced Zeam Launcher with Nemus Launcher 1.6.2.2
+    - Replaced Google Play Music with Stock CM7 Music app
+    - Removed CMStats.apk
+    - Removed CMUpdateNotify.apk
+    - Removed Zeam Launcher
+    - Removed Root Browser
+    - Changed lockscreen branding to "Team GingerDX"
+    - Full Polish translation
+
+Alfs Kernel Addon:
+
+    - Added Basic KSM Support for Alfs v09
+      See http://en.wikipedia.org/wiki/Kernel_SamePage_Merging_%28KSM%29
+
+GingerDX v025 (11-04-2012):
 
     - Latest CM7.2.0-RC1 Hero nightly
     - Integrated Stock Kernel Modules into the ROM
@@ -23,15 +52,15 @@ Alfs Kernel Addon:
 
     - Version bump to v004 to match GingerDX v025
 
-Changelog Alfs Kernel Addon v003b (05-04-2012):
+Alfs Kernel Addon v003b (05-04-2012):
 
     - Added missing busybox
 
-Changelog Alfs Kernel Addon v003 (30-03-2012):
+Alfs Kernel Addon v003 (30-03-2012):
 
     - Included Alfs USB tethering by alfsamsung
 
-Changelog GingerDX v024 (27-03-2012):
+GingerDX v024 (27-03-2012):
 
     - Latest CM7.2.0-RC1 Hero nightly.
     - Updated Play Store to v3.5.15
@@ -65,7 +94,7 @@ Thanks:
 
     - vislavski for beta testing
 
-Changelog GingerDX v023 (14-03-2012):
+GingerDX v023 (14-03-2012):
 
     - Latest CM7.2.0-RC0 Hero nightly.
     - Removed boot sound (haunt eagleeyetom if you miss it ;))
@@ -89,4 +118,3 @@ Changelog GingerDX v023 (14-03-2012):
     - Added vold+chargemon by alfsamsung for Alfs Kernel (Alfs Kernel AddOn)
     - Added ax8netfilter by AnDyX for Stock Kernel (Stock Kernel Modules)
     - Thanks go out to: deedii, vislavski, DefcOn, Xmaster8 and Maze for beta testing, doixanh for resolving the lockscreen problem (you rule, man)
-
