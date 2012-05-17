@@ -1,4 +1,4 @@
-GingerDX v026 (17-05-2012)
+GingerDX v026 (17-05-2012):
 
     - CM7.2.0-rc1, based on latest Hero CM7.2.0-release
     - Added Battery Life tweaks by PureMotive
