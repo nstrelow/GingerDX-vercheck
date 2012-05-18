@@ -9,7 +9,7 @@
     - Added Nemus Launcher 1.6.2.2
     - Added ES File Manager 1.6.1.5
     - Updated Play Store to 3.5.19
-    - Updated GalleryDX
+    - Updated GalleryDX (based on QuickPic 2.2.4)
     - Updated AChep's ICSandwich theme to 032-build-408
     - Updated timezone data to 2011n as included with the compile
     - Replaced ChainDD's Superuser with Chainfire's SuperSU 0.89
