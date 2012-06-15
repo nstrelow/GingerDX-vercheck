@@ -5,6 +5,7 @@
     - AChepified! ;) Merged AChep's ICS Layouts natively into the ROM (http://forum.xda-developers.com/showthread.php?t=1324924)
       (Best thanks to AChep for granting us permissions)
     - DeskClock: "Shake to Snooze Alarm" by AChep
+    - GingerDX setting for the hour to check for a new update
     - Updated ES File Explorer to 1.6.1.6
     - Updated Nemus Launcher to 1.6.3
     - Updated SuperSU to 0.90
