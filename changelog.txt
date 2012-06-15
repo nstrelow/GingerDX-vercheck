@@ -1,3 +1,28 @@
+* GingerDX v027 (15-06-2012):
+
+    - Latest CM7.2.0rc4 Hero nightly
+    - AChep's ICSandwich Theme now set by default
+    - AChepified! ;) Merged AChep's ICS Layouts natively into the ROM (http://forum.xda-developers.com/showthread.php?t=1324924)
+      (Best thanks to AChep for granting us permissions)
+    - DeskClock: "Shake to Snooze Alarm" by AChep
+    - Updated ES File Explorer to 1.6.1.6
+    - Updated Nemus Launcher to 1.6.3
+    - Updated SuperSU to 0.90
+    - Russian translation updated by yarik2720
+    - Merged CM9 backports aspee (LG P500 GingerDX Port)
+         - Kernel samepage merging (for Alfs v09+)
+           NOTE: This feature only works on Alfs v09+ and will have no effect on Stock Kernel or Alfs v08 (or older).
+           To enable KSM: System settings -> CyanogenMod settings -> Performance
+           CHECK "Kernel samepage merging" to enable the feature.
+           Be warned that this code is considered UNSTABLE and may cause unexpected problems.
+           Try at your own risk!
+         - Current CPU Frequency
+           Shown at: System settings -> CyanogenMod settings -> Performance -> CPU settings
+
+    Alfs Kernel Addon:
+    - Version bump to v006 to match GingerDX v027
+
+
 * GingerDX v026 (17-05-2012):
 
     - CM7.2.0-rc1, based on latest Hero CM7.2.0-release
@@ -21,9 +46,9 @@
     - Changed lockscreen branding to "Team GingerDX"
     - Full Polish translation
 
-Alfs Kernel Addon:
-
+    Alfs Kernel Addon:
     - Added Basic KSM Support for Alfs v09
+
 
 * GingerDX v025 (11-04-2012):
 
@@ -46,17 +71,19 @@ Alfs Kernel Addon:
     - Italian translation update by silverio_di and Firelord70
     - Bulgarian translation update by didkoslawow
 
-Alfs Kernel Addon:
-
+    Alfs Kernel Addon:
     - Version bump to v004 to match GingerDX v025
+
 
 * Alfs Kernel Addon v003b (05-04-2012):
 
     - Added missing busybox
 
+
 * Alfs Kernel Addon v003 (30-03-2012):
 
     - Included Alfs USB tethering by alfsamsung
+
 
 * GingerDX v024 (27-03-2012):
 
@@ -73,24 +100,21 @@ Alfs Kernel Addon:
     - Refreshed Google Apps
     - Fixed a file permission problem in updater-script
 
-Alfs Kernel Addon:
-
+    Alfs Kernel Addon:
     - Incorporated some optimizations suggested by alfsamsung
 
-Stock Kernel Modules:
-
+    Stock Kernel Modules:
     - Added ax8netfilter plus hw_config.sh modification to load full netfilter modules
     - NEW: update-GingerDX-Stock-Overclock.zip for easy overclock module installation
 
-Fixes:
-
+    Fixes:
     - Resolved a 'Divide by zero' in the framework
     - Lowered delay for screen rotation change from 2s to 0.6s
     - Removed unused code
 
-Thanks:
+    Thanks:
+    - vislavskid for beta testing
 
-    - vislavski for beta testing
 
 * GingerDX v023 (14-03-2012):
 
@@ -115,4 +139,7 @@ Thanks:
     - Added Adreno Libs by atis112 for Alfs Kernel (Alfs Kernel AddOn)
     - Added vold+chargemon by alfsamsung for Alfs Kernel (Alfs Kernel AddOn)
     - Added ax8netfilter by AnDyX for Stock Kernel (Stock Kernel Modules)
-    - Thanks go out to: deedii, vislavski, DefcOn, Xmaster8 and Maze for beta testing, doixanh for resolving the lockscreen problem (you rule, man)
+
+    Thanks:
+    - deedii, vislavskid, DefcOn, Xmaster8 and Maze for beta testing
+      doixanh for resolving the lockscreen problem (you rule, man)
