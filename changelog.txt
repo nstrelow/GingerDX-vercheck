@@ -1,11 +1,30 @@
+* GingerDX v028 (21-06-2012):
+    
+    - Latest CM7.2.0 Hero stable
+	- Pick-Up-To-Call in Phone dialer and MMS with GDX setting in CMParts
+    - Updated EN, DE, FR, IT, VI and RU translation for the USB storage mode / USB connection screen
+    - Updated RU translation in CMParts by yarik2720
+    - Updated GalleryDX to 2.3
+    - Updated SuperSU to 0.91
+    - Date now being displayed when Statusbar is being pulled down
+    - WiFi tethering TESTING (build.prop)
+        ro.tethering.kb_disconnect=1
+        wifi.hotspot.ti=1
+        ro.semc.wifi.hostapd=1
+
+    Alfs Kernel Addon:
+    - Version bump to v007 to match GingerDX v028
+
+
 * GingerDX v027 (15-06-2012):
 
     - Latest CM7.2.0rc4 Hero nightly
     - AChep's ICSandwich Theme now set by default
-    - AChepified! ;) Merged AChep's ICS Layouts natively into the ROM (http://forum.xda-developers.com/showthread.php?t=1324924)
+    - AChepified! ;) Merged AChep's ICS Layouts natively into the ROM
+      See: http://forum.xda-developers.com/showthread.php?t=1324924
       (Best thanks to AChep for granting us permissions)
     - DeskClock: "Shake to Snooze Alarm" by AChep
-    - GingerDX setting for the hour to check for a new update
+    - GingerDX setting to set the hour for GDX Update to check for a new update
     - Updated ES File Explorer to 1.6.1.6
     - Updated Nemus Launcher to 1.6.3
     - Updated SuperSU to 0.90
@@ -26,7 +45,7 @@
 
 * GingerDX v026 (17-05-2012):
 
-    - CM7.2.0-rc1, based on latest Hero CM7.2.0-release
+    - Latest CM7.2.0-rc1 Hero nightly
     - Added Battery Life tweaks by PureMotive
     - Added "Battery Status Bar" by spitemare
     - Added Menu button to receive call by eagleeyetom
@@ -53,7 +72,7 @@
 
 * GingerDX v025 (11-04-2012):
 
-    - Latest CM7.2.0-RC1 Hero nightly
+    - Latest CM7.2.0-rc1 Hero nightly
     - Integrated Stock Kernel Modules into the ROM
     - Replaced system/etc/hosts past a normal hosts file (Use AdAway or any similar app)
     - Tweaked various lightsensor settings in hw_config.sh
@@ -88,7 +107,7 @@
 
 * GingerDX v024 (27-03-2012):
 
-    - Latest CM7.2.0-RC1 Hero nightly.
+    - Latest CM7.2.0-rc1 Hero nightly
     - Updated Play Store to v3.5.15
     - Updated AChep's ICSandwich Theme to 031-build-406
     - Removed LauncherPro
@@ -119,7 +138,7 @@
 
 * GingerDX v023 (14-03-2012):
 
-    - Latest CM7.2.0-RC0 Hero nightly.
+    - Latest CM7.2.0-rc0 Hero nightly
     - Removed boot sound (haunt eagleeyetom if you miss it ;))
     - Removed CM7 File Manager
     - Added Root Browser by jrummy16
