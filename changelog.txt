@@ -1,3 +1,11 @@
+* GingerDX v028b (23-06-2012):
+
+    - Updated SuperSU to 0.92
+    - Fixed SMS/MMS Force Closing when "Pick-up-to-Call" is enabled
+    - Fixed "Date in the statusbar is not being updated"
+    - Fixed black block on the left when clock is being centered
+
+
 * GingerDX v028 (21-06-2012):
     
     - Latest CM7.2.0 Hero stable
