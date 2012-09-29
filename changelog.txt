@@ -2,7 +2,9 @@
    
 - Based on MiniCM shakira device tree
 - CM nightly dated on 28/09/2012
-- New devices officialy supported from now (Xperia X10 Mini, Xperia X10 Mini Pro, Samsung Galaxy Ace GT-5830 - thanks to CallMeVentus)
+- New devices officialy supported from now
+  (Xperia X10 Mini, Xperia X10 Mini Pro, 
+  Samsung Galaxy Ace GT-5830 - thanks to CallMeVentus)
 - Updated Google Play Store to 3.8.17
 - Removed Nemus Launcher
 - Added Holo Launcher 1.2.4
@@ -12,11 +14,14 @@
 - Ultra-brightness
 - Ultra-brightness power toggle
 - Native WiFi tethering (custom kernel only)
-- Option to remove all remembered networks by one click
+- Option to remove all remembered networks 
+  by one click
 - Jellybean status bar and notifications
 - Jellybean sounds
-- Fully customizable AChep's desk clock (math quiz, shake/flip to snooze/disable)
-- Centered clock option doesn't require reboot anymore
+- Fully customizable AChep's desk clock
+  (math quiz, shake/flip to snooze/disable)
+- Centered clock option doesn't require 
+  reboot anymore
 - GalleryDX's scrolling bug fixed
 - Updated Pick-up-to-call
 - Revamped transparent statusbar
@@ -25,11 +30,13 @@
 - ES File Explorer updated to v1.6.2.1
 - YouTube updated to v4.1.23
 - Flip-to-snooze the alarm bug fixed
-- Removed doixanh's optimization - it was the cause of scrolling bug
+- Removed doixanh's optimization - 
+  it was the cause of scrolling bug
 - ClockworkMod on stock build reverted to v4.0.1.5
 - ICSified Settings by default
 - Removed MIUI status bar battery style
-- Updated IT, RU, PL, VI translations (thanks to silverio.di, AChep and doixanh)
+- Updated IT, RU, PL, VI translations 
+  (thanks to silverio.di, AChep and doixanh)
 	
 Thanks go to:
 - atomrat
