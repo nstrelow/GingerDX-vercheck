@@ -1,3 +1,21 @@
+* GingerDX v031 (08-03-2013):
+
+- Ring Locker (to activate go to GingerDX settings->Other)
+- PIE controls ported from ParanoidAndroid
+	PIE is a fully-customizable replacement for the stock on-screen 
+	navigation buttons found in more recent versions of Android. 
+	It stays hidden off-screen, only to be brought to life by a predefined gesture. 
+	PIE can be manifested on all four sides of the devices, and there's even an option 
+	to set up multiple trigger areas, making this not only a neat mod to look at, 
+	but a convenient one, too. (androidpolice.com)
+- SuperSU 1.25
+- ES File Explorer 1.6.2.5
+- GalleryDX replaced with QuickPic
+- HoloLauncher 2.0.2
+- Big translation update (DE - laufersteppenwolf, PL - atomrat and me, IT - silverio.di, RU - AChep, NL - SMillerNL, PT - jucazastrow )
+- Improved JellyBean theme
+- Easter egg! Try to find it ;)
+
 * GingerDX v030 (20-01-2013):
 
 - CM nightly dated on 15/01/2013
