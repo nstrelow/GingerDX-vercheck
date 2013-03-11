@@ -1,3 +1,9 @@
+* GingerDX v031b (11-03-2013):
+
+- updated Ring Locker to show the time correctly
+- JellyBean theme updated (USB mounting)
+- updated Polish translation (sorry for that)
+
 * GingerDX v031 (08-03-2013):
 
 - Ring Locker (to activate go to GingerDX settings->Other)
